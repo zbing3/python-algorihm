@@ -84,8 +84,8 @@ if __name__ == '__main__':
 	b = [random.randint(1,1000) for i in xrange(200) ]
 	print b
 	insertSort(b)
-	
 	print 'insertSort 1 ',b
+	
 	random.shuffle(b)
 	print 'shuffle b ', b
 
