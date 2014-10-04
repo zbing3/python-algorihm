@@ -14,5 +14,4 @@ python中的快排： 通过选择一个基数，将列表分成大于基数和�
 
 ###数组的全排列—— permutation.py
 
-输入[1,2,3,4], 输出其所有的全排列，其中第一个方法是基于统计学的非递归方法，其他都是递归的方法。
-
+输入[1,2,3,4], 输出其所有的全排列，其中第一个方法是基于统计学的非递归方法，其他都是递归的方法。方法主要来源于http://stackoverflow.com/questions/104420/how-to-generate-all-permutations-of-a-list-in-python
