@@ -1,0 +1,4 @@
+#ignore the auto category .idea
+.idea
+#ignore the .pyc
+*.pyc
